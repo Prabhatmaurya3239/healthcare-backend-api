@@ -26,7 +26,7 @@ Watch the complete end-to-end API test suite and Postman demonstration recording
 
 <div align="center">
 
-<video src="./API%20test.mp4" controls="controls" width="90%" style="max-width: 850px; border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.25);">
+<video src="https://github.com/Prabhatmaurya3239/healthcare-backend-api/blob/main/API%20test.mp4" controls="controls" width="90%" style="max-width: 850px; border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.25);">
   <p>Your browser does not support the video tag. Please click the link below to watch or download the recording.</p>
 </video>
 
